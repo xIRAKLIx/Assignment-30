@@ -1,0 +1,46 @@
+#heading1 {
+    color: cyan;
+}
+
+#heading2 {
+    color: red;
+}
+
+#heading3 {
+    color: burlywood;
+}
+
+#heading4 {
+    color:green
+}
+
+#heading5 {
+    color: yellow;
+}
+
+#heading6 {
+    color: aliceblue;
+}
+#paragraph {
+    color: blue;
+}
+
+#span {
+    color: brown;
+}
+
+#strong {
+    color: aquamarine;
+}
+
+#emphasized {
+    color: red;
+}
+
+#bold {
+    color: red;
+}
+
+#italic {
+    color: pink;
+}
